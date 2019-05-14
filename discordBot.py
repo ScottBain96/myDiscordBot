@@ -10,7 +10,7 @@ client = commands.Bot(command_prefix = '?')
 #startbot
 @client.event
 async def on_ready():
-    print('my bot is ready')
+    print('We have logged in as {0.user}'.format(client))
 
 
 #member joins server event
@@ -44,6 +44,16 @@ async def _8ball(ctx, *, question):
 async def clear(ctx, amount=5):
     await ctx.channel.purge(limit=amount)
 
+#Kick user
+@client.command()
+async def kick(ctx, member : discord.Member, *, reason =None):
+    await member.kick(reason=reason)
+
+#ban user
+@client.command()
+async def ban(ctx, member : discord.Member, *, reason =None):
+    await member.ban(reason=reason)
+
 
 ##################################################
 ##################################################
@@ -51,3 +61,4 @@ async def clear(ctx, amount=5):
     
 #client token here
 client.run('MYTOKEN HERE')
+
