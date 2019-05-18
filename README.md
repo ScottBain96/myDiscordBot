@@ -26,11 +26,11 @@ Here you can see the user that was muted for testing purposes, his role is set t
 
 <img src= "images/pythonBot4.PNG" > 
 
-The reverse can also be done. (?unmute + username)
+Muted users can also be unmuted again. (?unmute + username)
 
 <img src= "images/pythonBot5.PNG" > 
 
-As you can see, the "Muted" role is reverted to None.
+As you can see, the "Muted" role is reverted to None. Using roles allows to administrate the priviledges of users in the server and facilitates moderation in bigger comunity servers.
 
 <img src= "images/pythonBot6.PNG" > 
 
