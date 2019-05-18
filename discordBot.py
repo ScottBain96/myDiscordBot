@@ -35,7 +35,7 @@ async def ping(ctx):
     
 @client.command()
 async def users(ctx):
-    id = client.get_guild('577963682861023244')
+    id = client.get_guild(577963682861023244)
     await ctx.send(f'Number of users: {id.member_count}')
 
 
