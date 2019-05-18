@@ -16,6 +16,8 @@ Interacting with the bot is done with commands that follow a prefix (in this cas
 
 Currently the bot has commands to play 8ball game, mute and unmute users, kick and ban users. These are done in the following way:
 
+<h3> 8Ball game </h3>
+
 Ask questions to the bot like an 8Ball game (?8ball + question)
 
 <img src= "images/pythonBot2.PNG" > 
