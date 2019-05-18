@@ -24,7 +24,7 @@ Mute users, it will set them to a role of the server which doesn't have talking 
 
 <img src= "images/pythonBot3.PNG" > 
 
-Here you can see the user that was muted for testing purposes, his role is set to "Muted".
+Here you can see the user that was muted as his role was changed by the bot to "Muted".
 
 <img src= "images/pythonBot4.PNG" > 
 
