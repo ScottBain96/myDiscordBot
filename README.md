@@ -16,13 +16,13 @@ Interacting with the bot is done with commands that follow a prefix (in this cas
 
 Currently the bot has commands to play 8ball game, mute and unmute users, kick and ban users. These are done in the following way:
 
-<h3> 8Ball game </h3>
+<h3> 8Ball game: </h3>
 
 Ask questions to the bot like an 8Ball game (?8ball + question)
 
 <img src= "images/pythonBot2.PNG" > 
 
-<h3> Mute and unmute users </h3>
+<h3> Mute and unmute users: </h3>
 
 Mute users, it will set them to a role of the server which doesn't have talking rights (?mute + username)
 
@@ -40,7 +40,7 @@ As you can see, the "Muted" role is reverted to None. Using roles allows to admi
 
 <img src= "images/pythonBot6.PNG" > 
 
-<h3> Kick and Ban users </h3>
+<h3> Kick and Ban users: </h3>
 
 Users can also be kicked from the channels (?kick + username)
 
@@ -56,5 +56,6 @@ User was removed from the server list.
 
 
 <h2> Further improvements/features </h2>
+
 There are more features that I will add in the future such as automoderating channels and working with databases.
 
