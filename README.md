@@ -16,7 +16,7 @@ Interacting with the bot is done with commands that follow a prefix (in this cas
 
 <h2> Commands available </h2>
 
-Currently the bot has commands to play 8ball game, mute and unmute users, kick and ban users. These are done in the following way:
+Currently the bot has commands to play 8ball game, mute and unmute users, clear messages, display number of users in a server, kick and ban users. These are done in the following way:
 
 <h3> 8Ball game: </h3>
 
