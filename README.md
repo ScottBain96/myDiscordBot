@@ -49,5 +49,6 @@ User was removed from the server list.
 <img src= "images/pythonBot9.PNG" > 
 
 
+<h2> Further improvements/features </h2>
 There are more features that I will add in the future such as automoderating channels and working with databases.
 
