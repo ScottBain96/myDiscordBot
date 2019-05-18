@@ -1,6 +1,6 @@
 <h1>Discord Bot created with Python</h1>
 
-<h2> Bot functionality </h2>
+<h2> Using the Bot </h2>
 
 First the bot must be online, this is done by executing the Python file.
 Once it is online, a message is displayed with the username of the bot and it's status (online) in the server:
@@ -9,9 +9,10 @@ Once it is online, a message is displayed with the username of the bot and it's 
 
 <img src= "images/pythonBot1.PNG" > 
 
-
-
 Interacting with the bot is done with commands that follow a prefix (in this case I used '?').
+
+
+<h2> Commands available </h2>
 
 Currently the bot has commands to play 8ball game, mute and unmute users, kick and ban users. These are done in the following way:
 
