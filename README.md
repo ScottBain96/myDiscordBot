@@ -26,17 +26,17 @@ Ask questions to the bot like an 8Ball game (?8ball + question)
 
 <img src= "images/pythonBot2.PNG" > 
 
-<h3> Clear messages: </h3>
-
-<img src= "images/.PNG" > 
-
 <h3> Show Ping: </h3>
 
-<img src= "images/.PNG" >
+This command gets the ping in ms for the bot (?ping)
+
+<img src= "images/pythonBot10.PNG" >
 
 <h3> Number of users: </h3>
 
-<img src= "images/.PNG" >
+Gets the current number of users in the server (?users)
+
+<img src= "images/pythonBot11.PNG" >
 
 <h3> Mute and unmute users: </h3>
 
@@ -70,6 +70,9 @@ User was removed from the server list.
 
 <img src= "images/pythonBot9.PNG" > 
 
+<h3> Clear messages: </h3>
+
+To clear/delete messages from the chat (?clear + number)
 
 <h2> Further improvements/features </h2>
 
