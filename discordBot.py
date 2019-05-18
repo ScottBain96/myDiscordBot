@@ -98,6 +98,7 @@ async def unmute(ctx, member : discord.Member=None, *, reason =None):
 ##################################################
 #https://discord.gg/rxxspN
     
-#client token here
+#client token here (I have a placeholder token, not same one as the bot utilizes as they can be regenerated)
 client.run('NTc3NjAzODI2MzkyMjM2MDUy.XNsr1w.1nax0KbFgNnz0Y4kFwxenURuf2o')
+
 
