@@ -35,7 +35,7 @@ async def ping(ctx):
     
 @client.command()
 async def users(ctx):
-    id = client.get_guild('Server ID here')
+    id = client.get_guild('577963682861023244')
     await ctx.send(f'Number of users: {id.member_count}')
 
 
@@ -99,5 +99,5 @@ async def unmute(ctx, member : discord.Member=None, *, reason =None):
 #https://discord.gg/rxxspN
     
 #client token here
-client.run('token here')
+client.run('NTc3NjAzODI2MzkyMjM2MDUy.XNsr1w.1nax0KbFgNnz0Y4kFwxenURuf2o')
 
