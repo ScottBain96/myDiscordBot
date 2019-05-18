@@ -29,4 +29,18 @@ As you can see, the "Muted" role is reverted to None.
 
 <img src= "images/pythonBot6.PNG" > 
 
+Users can also be kicked from the channels (?kick + username)
+
+<img src= "images/pythonBot7.PNG" > 
+
+Banning users will remove them from the channel and not allow them to re-join (?ban + username)
+
+<img src= "images/pythonBot8.PNG" > 
+
+User was removed from the server list.
+
+<img src= "images/pythonBot9.PNG" > 
+
+
+There are more features that I will add in the future such as automoderating channels and working with databases.
 
