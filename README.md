@@ -22,6 +22,8 @@ Ask questions to the bot like an 8Ball game (?8ball + question)
 
 <img src= "images/pythonBot2.PNG" > 
 
+<h3> Mute and unmute users </h3>
+
 Mute users, it will set them to a role of the server which doesn't have talking rights (?mute + username)
 
 <img src= "images/pythonBot3.PNG" > 
@@ -37,6 +39,8 @@ Muted users can also be unmuted again. (?unmute + username)
 As you can see, the "Muted" role is reverted to None. Using roles allows to administrate the priviledges of users in the server and facilitates moderation in bigger comunity servers.
 
 <img src= "images/pythonBot6.PNG" > 
+
+<h3> Kick and Ban users </h3>
 
 Users can also be kicked from the channels (?kick + username)
 
