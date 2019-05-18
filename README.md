@@ -1,4 +1,3 @@
-Discord bot created with Python
 <h1>Discord Bot created with Python</h1>
 
 <h2> Using the Bot </h2>
