@@ -2,6 +2,8 @@
 
 <h2> Using the Bot </h2>
 
+Requires discord.py library.
+
 First the bot must be online, this is done by executing the Python file.
 Once it is online, a message is displayed with the username of the bot and it's status (online) in the server:
 
