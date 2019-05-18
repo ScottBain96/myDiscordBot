@@ -13,7 +13,7 @@ Once it is online, a message is displayed with the username of the bot and it's 
 
 Interacting with the bot is done with commands that follow a prefix (in this case I used '?').
 
-Currently the bot has commands to:
+Currently the bot has commands to play 8ball game, mute and unmute users, kick and ban users. These are done in the following way:
 
 Ask questions to the bot like an 8Ball game (?8ball + question)
 
