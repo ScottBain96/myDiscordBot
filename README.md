@@ -24,6 +24,18 @@ Ask questions to the bot like an 8Ball game (?8ball + question)
 
 <img src= "images/pythonBot2.PNG" > 
 
+<h3> Clear messages: </h3>
+
+<img src= "images/.PNG" > 
+
+<h3> Show Ping: </h3>
+
+<img src= "images/.PNG" >
+
+<h3> Number of users: </h3>
+
+<img src= "images/.PNG" >
+
 <h3> Mute and unmute users: </h3>
 
 Mute users, it will set them to a role of the server which doesn't have talking rights (?mute + username)
